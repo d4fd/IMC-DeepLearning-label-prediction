@@ -1,0 +1,13 @@
+# Optional image/marker/encoder stages; Linux/CUDA and separate upstream install needed.
+-r requirements.txt
+scipy>=1.13
+scikit-image>=0.24
+tifffile>=2024.8
+zarr>=3,<4
+omegaconf>=2.3
+safetensors>=0.4
+einops>=0.8
+biopython>=1.84
+fair-esm>=2
+requests>=2.32
+loguru>=0.7

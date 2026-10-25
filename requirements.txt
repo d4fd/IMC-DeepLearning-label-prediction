@@ -1,0 +1,6 @@
+# Lightweight synthetic demo and head-only source dependencies, not a historical lock.
+numpy>=1.26,<3
+pandas>=2.2,<4
+scikit-learn>=1.4,<2
+torch>=2.5,<3
+pyarrow>=14,<25
